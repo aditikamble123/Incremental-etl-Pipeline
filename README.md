@@ -88,6 +88,7 @@ Copy code
 5. Log the execution details
 
 ---
+<img width="1920" height="316" alt="Screenshot (970)" src="https://github.com/user-attachments/assets/ecb8679b-8c0b-43f4-9fb7-d8b5c26d978f" />
 
 ## How to Run
 
